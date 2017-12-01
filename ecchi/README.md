@@ -1,7 +1,5 @@
 # Ecchi
 
-## Foreword
-
 ## Environment
 - Python 2.7
 - Package
@@ -21,11 +19,13 @@
 [official](https://www.python.org/)
 
 #### Setting Global Variable
-我的電腦 > 內容 > 進階系統設定 > 進階 > 環境變數 > 系統變數 > Path
-添加：
+右鍵點選 ***我的電腦***，選擇 ***內容***、***進階系統設定***、***進階***、***環境變數***、***系統變數**，
+
+點擊 ***Path*** 編輯，添加：
 ```
 ;C:\Python27;C:\Python27\Scripts
 ```
+![img](img/setting-global-var.png)
 
 ### For OS X or Linux
 **預設已安裝 Python**
