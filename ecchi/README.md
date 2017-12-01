@@ -1,4 +1,5 @@
 # Ecchi
+廣大紳士都瞭解的詞彙，如果不屬於紳士或不理解，請務必返回即可。
 
 ## Environment
 - Python 2.7
@@ -8,6 +9,7 @@
 ## Table of Contents 
 - [Install Python](#install-python)
 - [Install package](#install-package)
+- [Donate](#donate)
 
 ## Install Python
 
@@ -35,6 +37,6 @@
 ```bash
 $ pip install requests
 ```
-## 贊助：
+## Donate：
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/48763)
