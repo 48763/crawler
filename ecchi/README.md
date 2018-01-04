@@ -33,10 +33,11 @@
 **預設已安裝 Python**
 
 ## Install Package
-
+開啟終端機(cmd)，輸入指令即可安裝。
 ```bash
 $ pip install requests
 ```
-## Donate：
+
+---
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/48763)
