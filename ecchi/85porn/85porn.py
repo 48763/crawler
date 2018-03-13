@@ -1,6 +1,6 @@
 # encoding: utf-8
 '''
-name: 85pron-Downloader
+name: 85porn-Downloader
 Ver: 1.0.3
 Author: Yuki
 Github: https://github.com/48763
