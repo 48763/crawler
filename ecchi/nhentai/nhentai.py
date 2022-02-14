@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # encoding: utf-8
 '''
 Name: nhentai-Downloader
@@ -15,17 +16,17 @@ import shutil
 import random
 import time
 
-dir = raw_input("儲存的資料夾名稱：")
+dir = input("儲存的資料夾名稱：")
 
 if not os.path.exists(dir):
     os.makedirs(dir)
 else: 
-    print "資料夾已存在！"
+    print("資料夾已存在！")
     sys.exit()
 
 count = 1
 type = ".jpg"
-req = requests.get(raw_input("輸入網址："))
+req = requests.get("https://nhentai.net" + input("輸入網址："))
 list = re.findall("href=\"(/g/\d*?/\d*/)\"", req.text, flags = re.DOTALL)
 list.pop(0)
 
